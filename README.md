@@ -53,8 +53,8 @@
 
 ```
 # Site settings
-title: 95xueqian Blog                    # 你的博客网站标题
-SEOTitle: 95xueqian的博客 | 95xueqian Blog		# SEO 标题
+title: 95xueqian's Blog                    # 你的博客网站标题
+SEOTitle: 95xueqian的博客 | 95xueqian's Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
@@ -151,7 +151,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "95xueqian Blog",
+        title: "95xueqian's Blog",
         href: "https://95xueqian.github.io/"
     },
     {
@@ -248,7 +248,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ### SEO Title
 
-我的博客标题是 **“95xueqian Blog”** 但是我想要在搜索的时候显示 **“95xueqian的博客 | 95xueqian Blog”** ，这个就需要 SEO Title 来定义了。
+我的博客标题是 **“95xueqian's Blog”** 但是我想要在搜索的时候显示 **“95xueqian的博客 | 95xueqian's Blog”** ，这个就需要 SEO Title 来定义了。
 
 其实这个 SEO Title 就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 

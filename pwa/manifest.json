@@ -1,6 +1,6 @@
 {
-  "name": "95xueqian Blog",
-  "short_name": "95xueqian Blog",
+  "name": "95xueqian's Blog",
+  "short_name": "95xueqian's Blog",
   "description": "A personal blog by engineer",
   "icons": [{
     "src": "icons/pwa_icon_128.png",

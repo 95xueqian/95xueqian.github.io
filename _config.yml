@@ -1,8 +1,8 @@
 # Site settings
-title: 95xueqian Blog
-SEOTitle: 95xueqian的博客 | 95xueqian Blog
+title: 95xueqian's Blog
+SEOTitle: 95xueqian的博客 | 95xueqian's Blog
 header-img: img/post-bg-desk.jpg
-email: xxx@qq.com
+email: 843612857@qq.com
 description: "Every failure is leading towards success."
 keyword: "95xueqian, 95xueqian Blog, 95xueqian的博客"
 url: "http://95xueqian.github.io"          # your host, for absolute URL
@@ -13,7 +13,7 @@ github_repo: "https://github.com/95xueqian/95xueqian.github.io.git" # you code r
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 #sidebar-avatar: /img/about-95xueqian-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: /img/about-95xueqian-profile.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-profile.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
