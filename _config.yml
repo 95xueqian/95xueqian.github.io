@@ -1,25 +1,25 @@
 # Site settings
-title: HELLOZMZ Blog
-SEOTitle: HelloZMZ的博客 | HELLOZMZ Blog
+title: 95xueqian Blog
+SEOTitle: 95xueqian的博客 | 95xueqian Blog
 header-img: img/post-bg-desk.jpg
 email: xxx@qq.com
 description: "Every failure is leading towards success."
-keyword: "HELLOZMZ, HELLOZMZ Blog, HelloZMZ的博客"
-url: "http://hellozmz.github.io"          # your host, for absolute URL
+keyword: "95xueqian, 95xueqian Blog, 95xueqian的博客"
+url: "http://95xueqian.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/hellozmz/hellozmz.github.io.git" # you code repository
+github_repo: "https://github.com/95xueqian/95xueqian.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-#sidebar-avatar: /img/about-HELLOZMZ-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: /img/about-HELLOZMZ-profile.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: /img/about-95xueqian-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-95xueqian-profile.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     hellozmz
+# weibo_username:     95xueqian
 
 
 
@@ -54,16 +54,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: hellozmz
+# disqus_username: 95xueqian
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: hellozmz.github.io    #仓库名称
-  owner: hellozmz    #github用户名
-  admin: hellozmz
+  repo: 95xueqian.github.io    #仓库名称
+  owner: 95xueqian    #github用户名
+  admin: 95xueqian
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
